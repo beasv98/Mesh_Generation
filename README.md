@@ -14,6 +14,15 @@ This repository contains the implementation of A Mathematical Analysis of Image 
 	  •	min_dist_to_boundary: Minimum distance from the boundary to interior points.
 	3.	Run the script to generate and visualize the triangular mesh.
 
+ ## Dependencies
+ The script has been tested on Python 3.11.5, with the following packages installed:
+ 
+- OpenCV == 4.5.5
+- NumPy == 1.24.3
+- Matplotlib == 3.9.2
+- SciPy == 1.13.1
+- Shapely == 2.0.6
+
  ## Cite
  Considering citing our paper if you use this code in your work.
  ```bibtex
